@@ -2,7 +2,6 @@
 author: "Jacob Allebach"
 title: "My First Post"
 date: 2023-01-31T11:59:57-05:00
-draft: false
 tags: [
     "test",
 ]
