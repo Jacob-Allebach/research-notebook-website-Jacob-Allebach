@@ -1,6 +1,6 @@
 baseURL = "https://vnovel.pages.dev"
 title = "VNovel"
-author = ""
+author = "Jacob Allebach"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
