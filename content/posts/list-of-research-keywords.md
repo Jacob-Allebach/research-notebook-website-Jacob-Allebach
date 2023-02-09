@@ -1,7 +1,7 @@
 ---
 author: "Jacob Allebach"
 title: "List of Research Keywords"
-date: 2023-02-09T11:59:57-05:00
+date: "2023-02-09"
 tags: [
     "research",
 ]
