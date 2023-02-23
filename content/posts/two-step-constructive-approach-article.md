@@ -1,6 +1,6 @@
 ---
 author: "Jacob Allebach"
-title: "Answer Set Programming in Roguelike Games Article"
+title: "Two-Step Constructive Approaches for Dungeon Generation"
 date: "2023-02-14"
 tags: [
     "article",
